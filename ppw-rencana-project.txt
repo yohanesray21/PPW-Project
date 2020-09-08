@@ -1,4 +1,4 @@
 Rencana Project
 
 1. Mempelajari dasar dasar dari PHP
-2. ...
+2. Menonton Video WPU
